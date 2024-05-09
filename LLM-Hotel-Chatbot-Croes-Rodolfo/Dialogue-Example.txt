@@ -1,0 +1,99 @@
+User : Hi
+ChatBot : Hello! 🌴😊 Welcome to the booking office at Divi Resorts. How can I assist you with your vacation planning today? Are you looking to book a resort stay, or would you like a combination of resort stay and flight?
+User : Who is the president of the US?
+ChatBot : That's an interesting question, but how about we focus on getting you to one of our beautiful resorts? Which destination are you dreaming about for your vacation? 🌞✈️
+User : I'm not sure
+ChatBot : No problem at all! Could you tell me a bit about what you enjoy doing on vacation? For example, are you interested in beaches, golf, diving, or perhaps a bit of casino fun? This will help me suggest the perfect resort for you.
+User : I'm all into swimming and relaxing with my family
+ChatBot : Great to hear that you and your family enjoy swimming and relaxing! Based on your interests, I would recommend the Divi Aruba Phoenix Beach Resort in Aruba. It offers stunning beaches perfect for swimming and plenty of opportunities for relaxation. How does that sound for your vacation?
+User : Still not sure, can you tell me some stuff about Aruba?
+ChatBot : Absolutely, I'd be happy to share more about Aruba! Aruba is known as "One Happy Island" and it's a fantastic destination for families looking to enjoy some sun, sea, and relaxation. The island boasts beautiful white sandy beaches, crystal clear waters, and a warm, welcoming atmosphere. Aruba's climate is dry, meaning it's less likely to rain during your vacation, ensuring more sunny days to enjoy the beach. Additionally, Aruba offers a variety of activities for all ages, from snorkeling and windsurfing for the adventurous to tranquil spas and beachside dining for those looking to unwind. With its vibrant culture, delicious cuisine, and stunning natural beauty, Aruba provides an unforgettable vacation experience. 
+
+Would you like to proceed with booking your stay at the Divi Aruba Phoenix Beach Resort, or is there another destination you're curious about?
+User : That sounds lovely, I think we will go there
+ChatBot : Wonderful choice! The Divi Aruba Phoenix Beach Resort is truly a paradise for families looking to swim and relax. Let's get your booking started. Could you please tell me from when to when you are planning to stay? Make sure to specify the day, month, and year.
+User : I'm not sure, what time of year is best?
+ChatBot : The best time to visit Aruba is from April to August. During these months, you'll enjoy fantastic weather, slightly cooler temperatures, and fewer crowds compared to the high season, which runs from December to March. Plus, this period often sees more affordable rates for accommodations. How does a stay in June sound for your vacation planning?
+User : June sounds okay, what do you think about July?
+ChatBot : July is also a great time to visit Aruba! The weather in July is typically warm and sunny, making it perfect for swimming, beach activities, and exploring the island. Plus, being outside of the peak tourist season, you'll still enjoy the benefit of less crowded beaches and attractions. How about we look into booking your stay from early to mid-July? This could provide an ideal balance of beautiful weather and a relaxed atmosphere for your family vacation.
+User : Yea Mid July sounds good, how long do you think we should stay?
+ChatBot : A week-long stay is often perfect for families looking to unwind and explore Aruba at a leisurely pace. It gives you enough time to enjoy the beautiful beaches, try out different restaurants, participate in various activities, and still have plenty of moments for relaxation. How about we plan your stay at the Divi Aruba Phoenix Beach Resort from July 10th to July 17th? This would give you a full week of sun, sea, and relaxation. Does that work for you?
+User : Yes that sounds perfect
+ChatBot : Fantastic! I've penciled in your stay at the Divi Aruba Phoenix Beach Resort from July 10th to July 17th. Now, could you please tell me how many adults and how many children will be staying at the resort? The minimum allowed booking is 1 adult and 0 children, and the maximum allowed booking is 4 adults and 4 children.
+User : It will be me, my wife, our 3 children, my brother and his 1 kid
+ChatBot : Wonderful! That makes a total of 3 adults (You, your wife, and your brother) and 4 children (3 of your children and 1 of your brother's children) for your stay. I will add a 3-4 person room to your booking. This makes the total booking as two rooms of 3-4 people. Is this correct?
+User : That sounds perfect
+ChatBot : Great! Let's summarize your booking details:
+
+- Resort: Divi Aruba Phoenix Beach Resort
+- Stay Duration: July 10th to July 17th
+- Guests: 3 Adults and 4 Children
+- Rooms: Two rooms for 3-4 people each
+
+Before we finalize, do you have a promo code you'd like to use?
+User : Yes I do, HOHOHOLIDAY
+ChatBot : Thank you! The code "HOHOHOLIDAY" has been accepted. This will lower your 3-4 person room booking from $350.00 to $340.00 per night for each room. 
+
+Thus, your total cost for your stay is:
+- 2 rooms at $340.00 each per night for 7 nights = $4,760.00
+
+Total Resort Stay = $4,760.00
+
+Does this look good to you? Would you like to proceed with this booking, or is there anything else I can assist you with?
+User : Pricey but I'll take it
+ChatBot : Fantastic! I'm glad to hear you're moving forward with your booking at the Divi Aruba Phoenix Beach Resort. 
+
+Would you like to combine this resort stay with a flight, or is there anything else I can assist you with for your vacation planning?
+User : Yea sure, we need the flight to get there after all haha
+ChatBot : Absolutely, let's get your flight sorted! Could you please tell me from which airport you'll be flying? It helps if it's an international airport to ensure a smoother journey to **ARUBA**.
+User : I'm not sure about the airport, we are flying from Madrid
+ChatBot : Certainly! The closest international airport to you would be Adolfo Suárez Madrid-Barajas Airport (MAD). It's a major international airport and offers a wide range of flights to various destinations, including **ARUBA**. From Madrid-Barajas Airport, we can arrange your flight to ensure you have a seamless travel experience to the Divi Aruba Phoenix Beach Resort.
+
+Shall we proceed with booking your flights from Adolfo Suárez Madrid-Barajas Airport (MAD) to **ARUBA**?
+User : As the Spanish say, Si!
+ChatBot : Great! Let's proceed with booking your flights from Adolfo Suárez Madrid-Barajas Airport (MAD) to **ARUBA**. To ensure I provide you with the best options, could you please confirm the number of tickets you'll need? This should ideally match the number of guests staying at the resort (3 adults and 4 children).
+User : I think my brother will handle the tickets for him and his kid so
+ChatBot : Wonderful, we'll arrange for 4 tickets from Adolfo Suárez Madrid-Barajas Airport (MAD) to **ARUBA** for you, your wife, and your 3 children. I'll calculate the flight costs for you now.
+
+Seeing that the distance from Madrid to Aruba is approximately 7,500 kilometers, I can tell you that for one seat in Economy the price will be $1,250.00 
+
+For 2 adults and 3 children, all in Economy: 
+Total Flight cost: 4 seats in Economy at $1,250.00 = $5,000.00 
+
+Would you like to proceed with booking these flights, or would you be interested in exploring seat upgrades?
+User : What seat upgrades are there?
+ChatBot : For your flight from Adolfo Suárez Madrid-Barajas Airport (MAD) to **ARUBA**, we offer the following seat upgrades along with their adjusted prices:
+
+- **Premium Economy**: This upgrade offers more legroom and enhanced service. The price for one seat in Premium Economy is $1,500.00 (1.20 times the Economy price).
+  
+- **Business Class**: Enjoy even more space, superior service, and additional amenities. The price for one seat in Business Class is $1,875.00 (1.50 times the Economy price).
+  
+- **First Class**: For the ultimate in comfort and luxury, First Class provides the highest level of service, space, and privacy. The price for one seat in First Class is $2,250.00 (1.80 times the Economy price).
+
+Would you like to upgrade any of your seats, or would you prefer to continue with the Economy booking?
+User : I'll upgrade all our seats to Premium Economy
+ChatBot : Fantastic choice! Upgrading to Premium Economy will certainly make your flight to **ARUBA** more comfortable and enjoyable for you and your family. Let's update your booking:
+
+- Flight from Adolfo Suárez Madrid-Barajas Airport (MAD) to **ARUBA**
+- Seat Upgrade: Premium Economy
+- For 2 adults and 3 children: 4 seats in Premium Economy at $1,500.00 each
+
+Total Flight cost for Premium Economy: 4 seats at $1,500.00 = $6,000.00
+
+Adding this to your resort stay, your total booking cost is:
+
+- Total Resort Stay = $4,760.00
+- Total Flight Cost (Premium Economy) = $6,000.00
+- **Grand Total = $10,760.00**
+
+Does this updated booking and total price work for you? Would you like to confirm this booking, or is there anything else I can assist you with?
+User : Perfect, thanks for the help with the booking
+ChatBot : You're very welcome! I'm thrilled to have been able to assist you with your vacation planning. Your booking for the Divi Aruba Phoenix Beach Resort and your Premium Economy flights from Adolfo Suárez Madrid-Barajas Airport (MAD) to **ARUBA** are all set. Here's a quick recap:
+
+- **Resort Stay**: Divi Aruba Phoenix Beach Resort from July 10th to July 17th for 3 adults and 4 children, with a total cost of $4,760.00.
+- **Flight Booking**: Premium Economy class for 4 passengers from MAD to ARUBA, with a total cost of $6,000.00.
+- **Grand Total**: $10,760.00.
+
+Your confirmation details will be sent to your email shortly. If there's anything else you need or any further questions you have, feel free to ask. Wishing you and your family a fantastic vacation in Aruba! 🌴😊
+User : Thank you
+ChatBot : You're very welcome! If you have any more questions or need further assistance as your trip approaches, don't hesitate to reach out. Have a wonderful day and an amazing trip to Aruba! Safe travels! 🌞🌊
