@@ -1,6 +1,6 @@
 # Tree of Thought Experiments
 
-This repository contains implementations of the Tree of Thought (ToT) approach for problem-solving using large language models. The experiments are conducted on two datasets: GSM8K (math word problems) and StoryCloze (story completion tasks).
+This repository contains implementations of the Tree of Thought (ToT) approach for problem-solving using large language models. The experiments are conducted on two datasets: GSM8K (math word problems) and StoryCloze (story completion tasks). Also included are the results from the experiments that align with the report created for the dissertation project at University of Stirling.
 
 ## Files
 
