@@ -1,0 +1,446 @@
+Number of tasks: 20
+Number of solved tasks: 20
+run time: 39.06159520149231 seconds
+GPT usage cost so far: {'completion_tokens': 2388, 'prompt_tokens': 3580, 'cost': 0.06564}
+Task 10: 0
+Ground Truth: 34
+Generated Solution: 52.0
+Score: 0
+Task 16: 0
+Ground Truth: 1128
+Generated Solution: 18.8
+Score: 0
+Task 9: 1
+Ground Truth: 41
+Generated Solution: 41.0
+Score: 1
+Task 18: 0
+Ground Truth: 104
+Generated Solution: 53.0
+Score: 0
+Task 4: 0
+Ground Truth: 131250
+Generated Solution: 131.0
+Score: 0
+Task 3: 1
+Ground Truth: 113
+Generated Solution: 113.0
+Score: 1
+Task 13: 1
+Ground Truth: 9
+Generated Solution: 9.0
+Score: 1
+Task 15: 1
+Ground Truth: 29
+Generated Solution: 29.0
+Score: 1
+Task 0: 1
+Ground Truth: 6000
+Generated Solution: 6000.0
+Score: 1
+Task 8: 0
+Ground Truth: 1
+Generated Solution: 0.0
+Score: 0
+Task 5: 0
+Ground Truth: 5
+Generated Solution: 16.0
+Score: 0
+Task 17: 0
+Ground Truth: 11
+Generated Solution: 21.0
+Score: 0
+Task 2: 1
+Ground Truth: 145
+Generated Solution: 145.0
+Score: 1
+Task 6: 0
+Ground Truth: 79
+Generated Solution: 97.0
+Score: 0
+Task 11: 0
+Ground Truth: 324
+Generated Solution: 549.0
+Score: 0
+Task 12: 0
+Ground Truth: 2
+Generated Solution: 3.0
+Score: 0
+Task 14: 1
+Ground Truth: 350
+Generated Solution: 350.0
+Score: 1
+Task 19: 1
+Ground Truth: 145
+Generated Solution: 145.0
+Score: 1
+Task 7: 0
+Ground Truth: 8400
+Generated Solution: 8.0
+Score: 0
+Solutions accuracy: 0.40
+Task 1: 1.00
+Ground Truth: 5 croissants cost $3.00 each so they cost 5*3 = $<<5*3=15.00>>15.00
+4 cinnamon rolls cost $2.50 each so they cost 4*2.5 =$<<4*2.5=10.00>>10.00
+3 mini quiches cost $4.00 each so they cost 3*4 = $<<3*4=12.00>>12.00
+13 blueberry muffins cost $1.00 each so the cost 13*1 = $<<13*1=13.00>>13.00
+All total, his pastries costs 15+10+12+13 = $<<15+10+12+13=50.00>>50.00
+His has a 10% coupon for his $50.00 purchase so that saves him .10*50 = $<<10*.01*50=5.00>>5.00
+His total bill is $50 minus his discount of $5.00 so 50-5 = $<<50-5=45.00>>45.00
+#### 45
+Generated Solution: Answer:
+Total cost for croissants: 5 x $3.00 = $15.00
+Total cost for cinnamon rolls: 4 x $2.50 = $10.00
+Total cost for mini quiches: 3 x $4.00 = $12.00
+Total cost for blueberry muffins: 13 x $1.00 = $13.00
+Subtotal: $15.00 + $10.00 + $12.00 + $13.00 = $50.00
+Total after 10% discount: $50.00 - ($50.00 x 10%) = $45.00
+The answer is $45.00
+Self evaluation Score: 1.00
+Task 10: 0.30
+Ground Truth: Sally started out with 25 red, 7 green, and 12 yellow balloons, for a total of 25+7+12=<<25+7+12=44>>44 balloons.
+But 40% of her 25 red balloons burst, which meant that she then had 0.4*25=<<0.4*25=10>>10 fewer red balloons.
+The loud sound caused her to release half of her 12 yellow balloons, which means she then had (1/2)*12=<<12-6=6>>6 fewer yellow balloons.
+She added 75% of the 8 blue balloons she discovered, which means she added 0.75*8=<<75*.01*8=6>>6 blue balloons to her clutch.
+Thus, she initially had 44 balloons, but 10 red ones burst, 6 yellow ones escaped, and she added 6 more blue ones, for a total of 44-10-6+6=<<44-10-6+6=34>>34 balloons
+#### 34
+Generated Solution: Answer:
+After 40% of the red balloons burst, Sally was left with 15 red balloons. 
+After releasing half of the yellow balloons, Sally was left with 6 yellow balloons. 
+Adding 75% of the 8 blue balloons (6 balloons) to her remaining clutch, Sally finally carried 27 red balloons, 7 green balloons, 12 yellow balloons, and 6 blue balloons into the school. 
+The answer is 52.
+Self evaluation Score: 0.30
+Task 16: 0.60
+Ground Truth: First find how long Britany spends recording the videos: 18 videos * 4 minutes/video = <<18*4=72>>72 minutes
+Then find how long she spends writing songs in minutes: 2 hours * 60 minutes/hour = <<2*60=120>>120 minutes
+Then find how long Britany spending doing her makeup in a week: 15 minutes/day * 6 days/week = <<15*6=90>>90 minutes/week
+Then add the time she spends on videos and song-writing to find the total time she spends on TikTok in a week: 72 minutes/week + 90 minutes/week + 120 minutes/week = <<72+90+120=282>>282 minutes/week
+Then multiply the time spent per week by the number of weeks per month to find the total time spent per month: 282 minutes/week * 4 weeks/month = <<282*4=1128>>1128 minutes/month
+#### 1128
+Generated Solution: Answer:
+In a week, Britany spends 72 minutes filming TikTok videos (18 videos x 4 minutes), 2 hours writing songs, and 90 minutes doing her makeup (15 minutes x 6 days). This totals to 4 hours and 42 minutes per week spent on TikTok-related activities. In a month with four weeks, Britany spends a total of 18 hours and 48 minutes on TikTok. The answer is 18.8.
+Self evaluation Score: 0.60
+Task 9: 1.00
+Ground Truth: First find the number of multiple-choice questions Amy gets right: 80% * 10 questions = <<80*.01*10=8>>8 questions
+Then find the number of true/false questions she gets right: 90% * 20 questions = <<90*.01*20=18>>18 questions
+Now add those two numbers to find the number of 1-point questions she answered correctly: 8 questions + 18 questions = <<8+18=26>>26 questions. This is also the number of points she got, since each question is worth 1 point.
+Now find the number of 5-point questions Amy answered correctly: 5 questions * 60% = <<5*60*.01=3>>3 questions
+Now multiply that number by the number of points per question: 3 questions * 5 points/question = <<3*5=15>>15 points
+Now add the points from the 1-point and 5-point questions: 26 points + 15 points = <<26+15=41>>41 points
+#### 41
+Generated Solution: To calculate Amy's score, we first need to determine the number of questions she answered correctly in each category:
+
+Multiple-choice questions: 80% of 10 questions = 8 questions
+True/false questions: 90% of 20 questions = 18 questions
+Long answer questions: 60% of 5 questions = 3 questions
+
+Next, we calculate the total points Amy scored in each category:
+Multiple-choice questions: 8 points
+True/false questions: 18 points
+Long answer questions: 3 questions * 5 points = 15 points
+
+Finally, we sum up the total points scored by Amy:
+Total points = 8 (multiple-choice) + 18 (true/false) + 15 (long answer) = 41 points
+
+The answer is 41.
+Self evaluation Score: 1.00
+Task 18: 0.30
+Ground Truth: Steve buys 1 game a month his first year, and since there are 12 months in a year that means he buys 12*1=<<1*12=12>>12 games
+Steve then buys 2 games per month for a year, and since there are 12 months in a year that means he buys 12*2=<<2*12=24>>24 games
+Steve then buys 4 games per month for a year, and since there are 12 months in a year that means he buys 12*4=<<4*12=48>>48 games
+Steve also gets 5 games for Christmas each year for three years, for another 5*3=<<5*3=15>>15 games.
+In total over three years, Steve gets 12+24+48+15=<<12+24+48+15=99>>99 games
+Since Steve started with 5 games, he has 5+99=<<5+99=104>>104 games after 3 years
+#### 104
+Generated Solution: Answer:
+After the first year, Steve buys 12 more games (1 game per month), and receives 5 games for Christmas, totaling 17 games.
+After the second year, Steve buys 24 more games (2 games per month), and receives 5 games for Christmas, totaling 29 games.
+After the third year, Steve buys 48 more games (4 games per month), and receives 5 games for Christmas, totaling 53 games.
+The answer is 53.
+Self evaluation Score: 0.30
+Task 4: 1.00
+Ground Truth: First, let's calculate the price of the BMX bike which is half of the price of one MTB, so it's 500 * 0.5 = $<<500*0.5=250>>250.
+Half of the sold bikes were Trekking bikes, which means 300 * 0.5 = <<300*0.5=150>>150 bikes.
+15% of the sold bikes were BMX bikes, which means 300 * 15/100 = <<300*15/100=45>>45 bikes.
+The remaining bicycles sold were of the MTB type and there were 300 - 150 - 45 = <<300-150-45=105>>105 bikes of this type sold.
+That means Marcel earned 150 * 450 = $<<150*450=67500>>67500 from Trekking bikes.
+He also earned 45 * 250 = $<<45*250=11250>>11250 from BMX bikes.
+MTB bikes got him 105 * 500 = $<<105*500=52500>>52500
+In total Marcel earned 67500 + 11250 + 52500 = $<<67500+11250+52500=131250>>131250 during that month.
+#### 131250
+Generated Solution: Answer:
+Marcel sold 150 Trekking bikes, 45 BMX bikes, and 105 MTB bikes in one month.
+Total earnings from Trekking bikes: 150 bikes * $450 = $67,500
+Total earnings from BMX bikes: 45 bikes * $250 = $11,250
+Total earnings from MTB bikes: 105 bikes * $500 = $52,500
+Total earnings from selling bicycles during that month: $67,500 + $11,250 + $52,500 = $131,250
+The answer is 131,250.
+Self evaluation Score: 1.00
+Task 3: 1.00
+Ground Truth: She charged $85.00 on her card and just returned a $15.00 purchase so right now, her credit card has 85-15 = $<<85-15=70.00>>70.00 balance
+The frying pan is 20% off of $20.00 so .20*20.00 = $<<20*.01*20=4.00>>4.00
+The frying pan costs $20.00 and the discount price is $4.00 so the new price is 20-4=$<<20-4=16.00>>16.00
+The towel set is 10% off of $30.00 so .10*30 = $<<10*.01*30=3.00>>3.00
+The towel set costs $30.00 and the discount price is $3.00 so the new price is 30-3= $<<30-3=27.00>>27.00
+Her new purchases total 16+27 = $$<<16+27=43.00>>43.00
+After the return, her card balance was $70.00 and she just added $43.00 in purchases so her new balance is 70+43 = $<<70+43=113.00>>113.00
+#### 113
+Generated Solution: Answer:
+Original charge = $85.00
+
+Returned item = $15.00
+
+Frying pan (20% off $20.00) = $16.00
+
+Set of towels (10% off $30.00) = $27.00
+
+Total new charges = $16.00 + $27.00 = $43.00
+
+New balance on her credit card = $85.00 - $15.00 + $43.00 = $113.00
+
+The answer is 113.
+Self evaluation Score: 1.00
+Task 13: 1.00
+Ground Truth: He orders 2 sauces at $0.25 each so 2*.25 = $<<2*.25=0.50>>0.50 for sauce
+He orders extra meat for $2.00, extra cheese for $1.00, avocado for $1.00 and $0.50 for sauce for a total of 2+1+1+.50 = $<<2+1+1+.5=4.50>>4.50 in extras
+His burrito cost $6.50 and he adds $4.50 in extras and upgrades his meal for $3.00 so now he owes, 6.50+4.50+3 = $<<6.50+4.50+3=14.00>>14.00
+He has a $5.00 gift card and his current bill is $14.00 so he will owe 14-5 = $<<14-5=9.00>>9.00
+#### 9
+Generated Solution: Answer:
+Base burrito: $6.50
+Extra meat: $2.00
+Extra cheese: $1.00
+Avocado: $1.00
+2 sauces: $0.50
+Upgrade: $3.00
+Total before gift card: $14.00
+Gift card used: $5.00
+Amount still owed: $9.00
+The answer is 9.
+Self evaluation Score: 1.00
+Task 15: 1.00
+Ground Truth: 2 subs are $7.50 each so that’s 2*7.50 = $<<2*7.5=15.00>>15.00
+2 bags of chips are $1.50 each so that’s 2*1.50 = $<<2*1.50=3.00>>3.00
+2 cookies are $1.00 each so that’s 2*1 = $<<2*1=2.00>>2.00
+Her delivery order will be 15+3+2= $<<15+3+2=20.00>>20.00
+There’s a 20% delivery fee on the $20.00 which adds .20*20 = $4.00 to her bill
+The delivery order is $20.00, there’s a $4.00 delivery fee and she adds a $5.00 tip for a total of 20+4+5 = $<<20+4+5=29.00>>29.00
+#### 29
+Generated Solution: Answer:
+The total cost of the subs is 2 * $7.50 = $15.00
+The total cost of the chips is 2 * $1.50 = $3.00
+The total cost of the cookies is 2 * $1.00 = $2.00
+The subtotal is $15.00 + $3.00 + $2.00 = $20.00
+The delivery fee is 20% of the subtotal, which is 0.20 * $20.00 = $4.00
+Adding the $5.00 tip, the total cost of Rory's delivery order is $20.00 + $4.00 + $5.00 = $29.00
+The answer is 29.
+Self evaluation Score: 1.00
+Task 0: 1.00
+Ground Truth: On the first day, Wanda pumped 1/4*18000 gallons = <<1/4*18000=4500>>4500 gallons of water.
+On the same day, Ms. B pumped 3/4*4500 gallons = <<3/4*4500=3375>>3375 gallons of water into the tank.
+They pumped a total of 3375 gallons+ 4500 gallons = <<3375+4500=7875>>7875 gallons together on the first day
+On the second day, Wanda pumped 2/3 * 4500 gallons = <<2/3*4500=3000>>3000 gallons
+Ms. B also pumped 3375 gallons * 1/3 = <<3375*1/3=1125>>1125 gallons
+Together, on the second day, they pumped 3000 gallons + 1125 gallons = <<3000+1125=4125>>4125 gallons
+In the two days, they pumped a total of 4125 gallons + 7875 gallons = <<4125+7875=12000>>12000 gallons
+The amount of gallons remaining for the tank to be full is 18000 gallons - 12000 gallons = <<18000-12000=6000>>6000 gallons
+#### 6000
+Generated Solution: Answer:
+On the first day, Wanda filled 18000 x 1/4 = 4500 gallons of water.
+Ms. B pumped 3/4 x 4500 = 3375 gallons of water on the first day.
+Together, they pumped a total of 4500 + 3375 = 7875 gallons of water on the first day.
+On the second day, Wanda pumped 2/3 x 4500 = 3000 gallons of water.
+Ms. B pumped 1/3 x 3375 = 1125 gallons of water on the second day.
+Together, they pumped a total of 3000 + 1125 = 4125 gallons of water on the second day.
+Combined, they pumped 7875 + 4125 = 12000 gallons of water in two days.
+Therefore, there are 18000 - 12000 = 6000 gallons of water remaining for the tank to be full.
+The answer is 6000.
+Self evaluation Score: 1.00
+Task 8: 0.20
+Ground Truth: He has spent $50 on Fri/Sat movies because 5 x 10 = <<50=50>>50
+He has spent $56 on movies the rest of the day because 8 x 7 = <<8*7=56>>56
+He has spent $16 on popcorn because 2 x 8 = <<16=16>>16
+He has spent $8 on candy because 4 x 2 = <<4*2=8>>8
+He has spent 130 in total because 50 + 56 + 16 + 8 = <<50+56+16+8=130>>130
+He plans to spend $10 on popcorn and candy because 8 + 2 = <<8+2=10>>10
+He has $10 left to spend because 150 - 130 - 10 = <<150-130-10=10>>10
+He can see 1 movie because 10 / 10 = <<10/10=1>>1
+#### 1
+Generated Solution: Answer:
+Colby has already spent $100 on tickets for Fridays and Saturdays (5 movies x $10/movie) and $56 on tickets for other days (8 movies x $7/movie). He has also spent $16 on popcorn (2 tubs x $8/tub) and $8 on candy (4 boxes x $2/box). Therefore, he has spent a total of $180.
+
+Since his parents give him $150 every month, he has exceeded his budget by $30. Therefore, he cannot afford to see any more movies this month.
+
+The answer is 0
+Self evaluation Score: 0.20
+Task 5: 0.10
+Ground Truth: Each pack of bacon costs Kelly $10 total / 5 packs of bacon = $<<10/5=2>>2.
+So each pack of chicken costs $2 per pack of bacon * 2 = $<<2*2=4>>4.
+All of the chicken will therefore cost 6 packets of chicken * $4 per pack of chicken = $<<6*4=24>>24.
+The strawberries will cost her 3 packs of strawberries * $4 per pack of strawberries = $<<3*4=12>>12.
+Each pack of apples costs Kelly $4 per pack of strawberries / 2 = $<<4/2=2>>2.
+So all of the apples will cost her a combined total of 7 packs of apples * $2 per pack of apples = $<<7*2=14>>14.
+In total, Kelly’s shopping so far costs $10 for bacon + $24 for chicken + $12 for strawberries + $14 for apples = $<<10+24+12+14=60>>60.
+She therefore has $65 budget - $60 for shopping = $<<65-60=5>>5 left in the budget.
+#### 5
+Generated Solution: Answer:
+Each packet of chicken costs $20, so 6 packets of chicken cost $120.
+3 packs of strawberries cost $12 in total.
+Each pack of apples costs $2, so 7 packs of apples cost $7.
+In total, Kelly has spent $10 + $120 + $12 + $7 = $149.
+Therefore, Kelly has $65 - $149 = $16 left in her budget.
+The answer is 16.
+Self evaluation Score: 0.10
+Task 17: 0.10
+Ground Truth: Jack puts change in 60/20=<<60/20=3>>3 times an hour
+So he spends 3*.25=$<<3*.25=.75>>.75 an hour
+His two friends add change 3*2=<<3*2=6>>6 times an hour
+So they spend 6*.25=$<<6*.25=1.5>>1.5 an hour
+His last friend puts in money 3/1.5=<<3/1.5=2>>2 times an hour
+So he spends 2*.25=$<<2*.25=.50>>.50 an hour
+So in total they spend .75+1.5+.5=$<<.75+1.5+.5=2.75>>2.75 an hour
+So they spend 2.75*4=$<<2.75*4=11>>11 in the 4 hours
+#### 11
+Generated Solution: Answer:
+Let x be the number of quarters Jack used.
+
+Jack played for 20x minutes.
+One friend played for 10x minutes.
+One friend played for 15x minutes.
+
+Together, they played for 4 hours, which is 240 minutes.
+
+So, 20x + 10x + 15x = 240
+45x = 240
+x = 5.33
+
+Since they played for 4 hours, the total number of quarters used is 5.33 * 4 = 21.32
+
+Therefore, they used a total of 21 quarters.
+The answer is 21.
+Self evaluation Score: 0.10
+Task 2: 0.90
+Ground Truth: The first train stays in the station for 10 minutes * 2 = <<10*2=20>>20 minutes.
+So Paul waits for the first train for 20 + 10 = <<20+10=30>>30 minutes.
+The second train arrives after half an hour, which is the same as 60 minutes / 2 = <<60/2=30>>30 minutes.
+It then stays in the station for a quarter of the time the first train did which is 20 minutes / 4 = <<20/4=5>>5 minutes.
+So Paul waits for the second train for 30 + 5 = <<30+5=35>>35 minutes.
+The third train arrives an hour later, which is the same as 60 minutes * 1 hour = <<60*1=60>>60 minutes.
+After the final wait, Paul has waited a total of 30 minutes for the first train + 35 minutes for the second train + 60 minutes for the third train + 20 minutes final wait = <<30+35+60+20=145>>145 minutes.
+#### 145
+Generated Solution: Answer:
+Paul will wait for:
+10 minutes for the first train to arrive +
+20 minutes for the first train to stay in the station +
+30 minutes for the second train to arrive +
+5 minutes for the second train to stay in the station +
+60 minutes for the third train to arrive +
+20 minutes for the fourth train to arrive after the third train leaves =
+145 minutes
+The answer is 145
+Self evaluation Score: 0.90
+Task 6: 0.70
+Ground Truth: Rose picks 3*5=<<3*5=15>>15 petals worth of the 5 petal flowers.
+Rose then picks 4*6=<<4*6=24>>24 petals worth of the 6 petal flowers.
+Rose then picks 5*4=<<5*4=20>>20 petals worth of the 4 petal flowers.
+Finally, Rose picks 6*7=<<6*7=42>>42 petals worth of the 7 petal flowers.
+Rose carries 15+24+20+42=<<15+24+20+42=101>>101 petals worth of flowers back to the vase.
+But the wind blows 5+6+4+7=<<5+6+4+7=22>>22 petals worth of flowers away.
+So Rose has 101-22=<<101-22=79>>79 petals worth remaining
+#### 79
+Generated Solution: Answer:
+3 flowers with 5 petals each = 15 petals
+4 flowers with 6 petals each = 24 petals
+5 flowers with 4 petals each = 20 petals
+6 flowers with 7 petals each = 42 petals
+Total petals before dropping = 15 + 24 + 20 + 42 = 101 petals
+After dropping 1 of each = 101 - 4 = 97 petals
+The answer is 97
+Self evaluation Score: 0.70
+Task 11: 0.20
+Ground Truth: The service includes 4 mirrors and she has 6 so that's 6-4 = <<6-4=2>>2 extra mirrors
+An additional item is an extra $15.00 so that's 2*15 = $30.00
+The service includes 1 chandelier and she has 2 so that's 2-1 = 1 extra chandelier
+An additional item is an extra $15.00 so that's 1*15 = $<<1*15=15.00>>15.00
+The service includes 10 pictures and she has 20 to that's 20-10 = <<20-10=10>>10 extra pictures
+An additional item is an extra $15.00 so that's 10*15 = $<<10*15=150.00>>150.00
+The service costs $129.00 and the extra mirrors are $30.00, the chandelier is $15.00 and the pictures are $150.00 for a total of 129+30+15+150 = $<<129+30+15+150=324.00>>324.00
+#### 324
+Generated Solution: Answer:
+Angela needs to have 6 mirrors, 2 chandeliers, and 20 pictures installed, which is a total of 28 items. The cost for the installation of the additional items will be $15.00 per item, so the total cost for installation will be $129.00 + (28 x $15.00) = $129.00 + $420.00 = $549.00. 
+The answer is 549.
+Self evaluation Score: 0.20
+Task 12: 0.10
+Ground Truth: The teacher uses 45% of his 5 inch stick of chalk on Monday, or 5 * .45 = <<5*.45=2.25>>2.25 inches.
+He is left with 5 - 2.25 = <<5-2.25=2.75>>2.75 inches of chalk.
+The next day he will use 20% of 2.75 inches, which is 2.75 * .2 = <<2.75*.2=.55>>.55 inches of chalk used.
+That leaves him with 2.75 - .55 = <<2.75-.55=2.2>>2.2 inches of chalk.
+The day after that, he will use 2.2 * .2 = <<2.2*.2=.44>>.44 inches of chalk.
+That will leave him with 2.2 - .44 = <<2.2-.44=1.76>>1.76 inches of chalk.
+Since 1.76 is less than 2 inches, he will recycle this stick in 2 days.
+#### 2
+Generated Solution: Answer:
+The teacher has 3 days before he has to recycle the chalk. The answer is 3.
+Self evaluation Score: 0.10
+Task 14: 1.00
+Ground Truth: When Zaid spend 1/4 of his salary on rent, he parts with 1/4*$6000 = $<<1/4*6000=1500>>1500
+Car fuel costs him 1/3*$6000 = $<<6000*1/3=2000>>2000
+Total expenses amount to $2000+$1500 = $<<2000+1500=3500>>3500
+The total amount of money he remains with is $6000-$3500 = $<<6000-3500=2500>>2500
+He donates half of the remaining amount, which is 1/2*$2500 = $<<1/2*2500=1250>>1250
+The total amount of money given to his wife and daughter is $200+$700 = $<<200+700=900>>900
+After the amount that he gave the wife and daughter, the total amount remaining is $1250-$900 = $<<1250-900=350>>350
+#### 350
+Generated Solution: Answer:
+Zaid spends 1/4 of his salary on rent, which is 6000 * 1/4 = 1500$.
+He spends 1/3 of his salary on car fuel, which is 6000 * 1/3 = 2000$.
+The total amount he spends on rent and car fuel is 1500 + 2000 = 3500$.
+After deducting this amount, he has 6000 - 3500 = 2500$ left.
+He donates half of this remaining amount, which is 2500 / 2 = 1250$.
+After the donation, he has 2500 - 1250 = 1250$ left.
+He gives his daughter 200$ and his wife 700$, which is a total of 200 + 700 = 900$.
+Therefore, Zaid will still have 1250 - 900 = 350$ after all these expenses and donations. The answer is 350.
+Self evaluation Score: 1.00
+Task 19: 1.00
+Ground Truth: Betty has 30% more points than Adam, so it's 30/100 * 50 = <<30/100*50=15>>15 points more.
+Betty's total is therefore 50 + 15 = <<50+15=65>>65 points.
+Tom has 30 points less than Betty, so he has 65 - 30 = <<65-30=35>>35 points.
+Marta has 3 times more points than Tom, so she has 3 * 35 = <<3*35=105>>105 points.
+In total, all students collected 50 + 65 + 35 + 105 = <<50+65+35+105=255>>255 points.
+So the class is missing 400 - 255 = <<400-255=145>>145 points to go on the trip.
+#### 145
+Generated Solution: Answer:
+Betty collected 50 + 30% of 50 = 50 + 15 = 65 points.
+Tom has 30 points less than Betty, so Tom has 65 - 30 = 35 points.
+Marta collected 3 times more points than Tom, so Marta has 3 * 35 = 105 points.
+In total, the class has 50 + 65 + 35 + 105 = 255 points.
+The class is missing 400 - 255 = 145 points to go on the trip.
+The answer is 145.
+Self evaluation Score: 1.00
+Task 7: 1.00
+Ground Truth: First calculate the gross annual salary for Job A: 2000 hours * $15/hour = $<<2000*15=30000>>30,000
+Next, calculate the amount of taxes Nick pays at Job A by multiplying his net salary by the 20% tax rate: .2 * $30,000 = $<<30000*.2=6000>>6,000
+Now subtract Nick's taxes from his net pay to find his gross pay at Job A: $30,000 - $6,000 = $<<30000-6000=24000>>24,000
+Now subtract Nick's property taxes from his gross income at Job B: $42,000 - $6,000 = $<<42000-6000=36000>>36,000
+Now multiply Nick's income after property tax by 10% to find his income tax at Job B: $36,000 * 10% = $<<36000*10*.01=3600>>3,600
+Now subtract the income tax amount from Nick's earnings after property tax to find his net income at Job B: $36,000 - $3,600 = $<<36000-3600=32400>>32,400
+Now subtract the net income from the lower-paying job (A) from the net income from the higher-paying job (B): $32,400 - $24,000 = $<<32400-24000=8400>>8,400
+#### 8400
+Generated Solution: Answer:
+First, let's calculate the net pay for Job A:
+Gross pay = $15/hour * 2000 hours = $30,000
+Total tax = $30,000 * 20% = $6,000
+Net pay = $30,000 - $6,000 = $24,000
+
+Now, let's calculate the net pay for Job B:
+Net income after property tax = $42,000 - $6,000 = $36,000
+Total tax = $36,000 * 10% = $3,600
+Net pay = $36,000 - $3,600 = $32,400
+
+The difference in net pay between the two jobs is:
+$32,400 - $24,000 = $8,400
+
+The answer is 8,400.
+Self evaluation Score: 1.00
+Self Evaluation Solutions accuracy: 0.67
+GPT usage cost after self evaluation: {'completion_tokens': 2056, 'prompt_tokens': 11549, 'cost': 0.18351499999999998}

@@ -1,0 +1,383 @@
+Number of tasks: 20
+Number of solved tasks: 20
+run time: 512.5624086856842 seconds
+GPT usage cost so far: {'completion_tokens': 93895, 'prompt_tokens': 121224, 'cost': 2.287835}
+Task 27: 1
+Ground Truth: 16
+Generated Solution: 16.0
+Score: 1
+Task 135: 0
+Ground Truth: 40
+Generated Solution: 55.0
+Score: 0
+Task 1203: 0
+Ground Truth: 240
+Generated Solution: 300.0
+Score: 0
+Task 527: 1
+Ground Truth: 48
+Generated Solution: 48.0
+Score: 1
+Task 415: 0
+Ground Truth: 350
+Generated Solution: 220.0
+Score: 0
+Task 157: 0
+Ground Truth: 80
+Generated Solution: 1640.0
+Score: 0
+Task 468: 1
+Ground Truth: 120
+Generated Solution: 120.0
+Score: 1
+Task 1251: 0
+Ground Truth: 30
+Generated Solution: 35.0
+Score: 0
+Task 455: 0
+Ground Truth: 1920
+Generated Solution: 480.0
+Score: 0
+Task 370: 0
+Ground Truth: 320
+Generated Solution: 400.0
+Score: 0
+Task 501: 0
+Ground Truth: 273
+Generated Solution: 364.0
+Score: 0
+Task 171: 1
+Ground Truth: 1210
+Generated Solution: 1210.0
+Score: 1
+Task 254: 0
+Ground Truth: 84
+Generated Solution: 36.0
+Score: 0
+Task 681: 1
+Ground Truth: 298
+Generated Solution: 298.0
+Score: 1
+Task 467: 1
+Ground Truth: 1200
+Generated Solution: 1200.0
+Score: 1
+Solutions accuracy: 0.30
+Task 27: 1.00
+Ground Truth: Each container of ice cream has 15 servings and she eats 1 serving a night so after 60 days she will need 60/15 = 4 containers of ice cream
+If each carton costs $4.00 and she needs 4 containers then it will cost her 4*4 = $<<4*4=16.00>>16.00
+#### 16
+Generated Solution: Strategy:
+1. Calculate how many servings of ice cream Cynthia will consume in 60 days (1 serving per night x 60 days = 60 servings).
+2. Determine how many cartons of ice cream she will need (60 servings ÷ 15 servings per carton = 4 cartons).
+3. Multiply the number of cartons by the cost per carton to find the total amount spent on ice cream in 60 days ($4.00 per carton x 4 cartons = $16.00).
+
+Answer:
+The answer is 16
+Self evaluation Score: 1.00
+Task 917: 0.70
+Ground Truth: Kira bought 3 + 5 + 6 = <<3+5+6=14>>14 pieces of fruit.
+After Lola ate 2 pieces of fruit there are 14 - 2 = <<14-2=12>>12 pieces of fruit.
+#### 12
+Generated Solution: Strategy:
+1. Calculate the total number of pieces of fruit Kira bought.
+2. Subtract the number of pieces Lola ate from the total.
+3. Determine the final number of pieces left.
+Self evaluation Score: 0.70
+Task 135: 0.20
+Ground Truth: If Brian previously had 20 video games but lost 5, that means he now has 20-5=<<20-5=15>>15 video games
+Brian has 15 video games, so if Bobby has 5 fewer than 3 times as many as Brian does we must first perform 15*3=45
+We then subtract 5 from the previous total for 45-5=40 games in total.
+#### 40
+Generated Solution: Strategy:
+1. Determine how many video games Bobby has by calculating 3 times the number of video games Brian has (20) and then subtracting 5.
+2. Take into account that Brian lost 5 video games before the comparison was made.
+3. Calculate the final number of video games Bobby has.
+
+Answer:
+Bobby has 55 video games.
+The answer is 55
+Self evaluation Score: 0.20
+Task 1203: 0.50
+Ground Truth: Mattison's two-story house is 60 x 7 = <<60*7=420>>420 inches high.
+The floor to the ceiling on the first floor is 60 x 3 = <<60*3=180>>180 inches high.
+Hence, the roof is 420 - 180 = <<420-180=240>>240 inches high from the second floor's floor.
+#### 240
+Generated Solution: Strategy:
+1. Determine the height of the first floor ceiling by multiplying Mattison's height by 3.
+2. Calculate the total height of the two-story house by multiplying Mattison's height by 7.
+3. Subtract the height of the first floor ceiling from the total height of the house to find the height from the first floor to the roof.
+
+Answer:
+The roof is 300 inches from the second floor's floor.
+The answer is 300
+Self evaluation Score: 0.50
+Task 527: 0.90
+Ground Truth: First, we need to determine how many days it takes 1 person to paint a whole house. We do this by performing 5*2=<<5*2=10>>10 days to paint the full house.
+Since five people would perform the task 5 times as fast, we find the total amount of time required by performing 10/5= <<10/5=2>>2 days to paint the full house.
+Since there are 24 hours in a day, we perform 24*2=<<24*2=48>>48 hours for them to paint the full house.
+#### 48
+Generated Solution: Strategy:
+To answer this question, I will first determine how many days it takes for one person to paint a whole house by doubling the time it takes for one person to paint half a house. Then, I will convert the number of days to hours since the question asks for the time it would take for 5 people to paint a whole house. Finally, I will divide the total number of hours by 5 to find out how long it would take for 5 people to paint a whole house.
+
+Answer:
+It takes 10 days for one person to paint a whole house, which is equivalent to 240 hours. Therefore, it would take 48 hours for 5 people to paint a whole house. The answer is 48.
+Self evaluation Score: 0.90
+Task 596: 1.00
+Ground Truth: The total base cost of the implants is 2 * $2000 = $<<2*2000=4000>>4000.
+Adding the porcelain crown increases the total to $4000 + $500 = $<<4000+500=4500>>4500.
+Subtracting the deposit, George needs to pay a total of $4500 - $600 = $<<4500-600=3900>>3900.
+This means George would need to work a total of $3900 / $15 per hour = <<3900/15=260>>260 hours.
+#### 260
+Generated Solution: Strategy:
+1. Calculate the total cost of the dental work by adding the base price of the two implants, the cost of the porcelain crown, and subtracting the deposit already made.
+2. Calculate how much money George needs to earn by subtracting the total cost of the dental work from the deposit and dividing by his hourly wage to determine the number of hours he needs to work.
+Self evaluation Score: 1.00
+Task 415: 0.10
+Ground Truth: Joanna gathered 30 apples / 2 = <<30/2=15>>15 apples from the shortest trees.
+Her sister gathered 30 apples * 2 = <<30*2=60>>60 apples from the tallest trees.
+Her sister also gathered 15 apples * 3 = <<15*3=45>>45 apples from the shortest trees.
+In total, her sister gathered 60 + 45 = <<60+45=105>>105 apples.
+From the tallest and shortest trees, Joanna gathered 30 + 15 = <<30+15=45>>45 apples.
+So far, the sisters have a combined total of 105 + 45 = <<105+45=150>>150 apples.
+Therefore, Joanna must have gathered 500 total apples – 150 apples so far = <<500-150=350>>350 apples from the average trees.
+#### 350
+Generated Solution: Strategy:
+1. Let x represent the number of apples Joanne gathers from the average trees, y represent the number of apples she gathers from the shortest trees, and z represent the number of apples she gathers from the tallest trees.
+2. Set up the following system of equations based on the information given:
+x + y + z = 500
+30 + 0.5y + x + z = 500
+2(30) + 3(0.5y) + x = 500
+3. Solve the system of equations to find the number of apples Joanne gathers from the average trees.
+Answer:
+Joanne gathered 220 apples from the average trees. The answer is 220
+Self evaluation Score: 0.10
+Task 554: 1.00
+Ground Truth: Cold water mile = <<16=16>>16 minutes
+Warm water mile = 2+2(16)=34 minutes
+3 miles in cold water: 3(16)=<<3*16=48>>48 minutes
+3 miles in warm water: 3(34)=<<3*34=102>>102 minutes
+Ray takes 102-48=<<102-48=54>>54 minutes longer
+#### 54
+Generated Solution: Strategy:
+1. Calculate how long it takes Ray to swim a mile on a hot day.
+2. Calculate how long it takes Ray to swim a mile on a cold day.
+3. Find the difference between the two times to determine how much longer it takes Ray to swim one mile on a hot day compared to a cold day.
+4. Multiply this difference by 3 to find out how much longer it would take Ray to swim 3 miles on a hot day compared to a cold day.
+Self evaluation Score: 1.00
+Task 409: 0.40
+Ground Truth: When hired, each employee is paid $15*40 = $<<15*40=600>>600 per week.
+The total earnings of a contracted employee in a month are 4 weeks * $600 per week = $<<4*600=2400>>2400
+Paying 40 employees, the company paid 40*$2400= $<<40*2400=96000>>96000 to all of its contract employees in May.
+In June, 1/4 of the employees' contracts expired, that is 1/4*40 = <<1/4*40=10>>10 employees.
+The total number of employees whose contracts were valid in June was 40-10 = <<40-10=30>>30 employees.
+The total amount of money paid to the contracted employees in June is 30*$2400 = $<<30*2400=72000>>72000
+In the two months, the company paid a total of $72000+$96000 = $<<72000+96000=168000>>168000
+#### 168000
+Generated Solution: Strategy:
+1. Calculate the total amount paid to the employees in May by multiplying the number of employees (40) by the hourly rate ($15) and the number of hours worked (40 hours/week).
+2. Calculate the total amount paid to the employees in June by calculating 3/4 of the original number of employees (40 * 3/4 = 30) and multiplying by the hourly rate ($15) and the number of hours worked (40 hours/week).
+3. Add the total amounts paid in May and June to find the total amount paid to the employees in the two months.
+
+Answer:
+The total amount paid to the employees in the two months is $31,200.
+Self evaluation Score: 0.40
+Task 157: 0.30
+Ground Truth: Blake runs 200 yards for each back and forth because 100 x 2 = 200
+He runs 3000 yards in total because 200 x 15 = <<200*15=3000>>3000
+Kelly runs 200 yards at first because 100 x 2 = <<100*2=200>>200
+She runs 80 yards each time she does a back and forth to the 40-yard line because 40 x 2 = <<40*2=80>>80
+She runs 2720 from these back and forth because 34 x 80 = <<34*80=2720>>2720
+She runs 2920 in total because 2720 + 200 = <<2720+200=2920>>2920
+Blake won because 3000 > 2920
+The winner ran 80 yards more than the loser because 3000 - 2920 = <<3000-2920=80>>80
+#### 80
+Generated Solution: Strategy:
+1. Calculate the total distance each person ran.
+2. Subtract the total distance run by the loser from the total distance run by the winner to find the difference in distance. 
+
+Answer:
+Blake ran a total of 3000 yards (100 yards x 2 x 15 times).
+Kelly ran a total of 1360 yards (40 yards x 2 x 34 times).
+
+3000 - 1360 = 1640
+
+The answer is 1640.
+Self evaluation Score: 0.30
+Task 468: 0.90
+Ground Truth: If Fireman Frank gets 5 pairs of shoes on Monday and 15 new pairs on Wednesday, he would have 5+15 = <<5+15=20>>20 new pairs of shoes.
+When he gets 30 pairs on Friday, the total number of new pairs of shoes he has is 20+30 = <<30+20=50>>50 pairs of shoes.
+Since a pair have 2 shoes, 50 pairs would be 2*50 = <<50*2=100>>100 shoes.
+The total number of shoes that Fireman Frank has by Saturday is 200+100 = <<200+100=300>>300
+On Sunday, after he gets rid of 180 shoes on Saturday, he remains with 300-180 = <<300-180=120>>120
+#### 120
+Generated Solution: Strategy:
+1. Calculate the total number of shoes Fireman Frank gains throughout the week by adding up the number of pairs he gets each day. 
+2. Subtract the number of shoes he gets rid of on Saturday from the total gained throughout the week to find out how many shoes he has left. 
+3. The final result will be the total number of shoes he has left after the calculation.
+
+Answer:
+Total number of shoes gained throughout the week = 5 pairs on Monday + 15 pairs on Wednesday + 30 pairs on Friday = 50 pairs
+Total number of shoes Fireman Frank has after gaining shoes = 200 shoes + 50 pairs = 300 shoes
+Number of shoes he gets rid of on Saturday = 180 shoes
+Number of shoes he has left = 300 shoes - 180 shoes = 120
+
+The answer is 120
+Self evaluation Score: 0.90
+Task 1251: 0.70
+Ground Truth: The second and third side each take 2*5=<<2*5=10>>10 minutes
+So they take 10*2=<<10*2=20>>20 minutes together
+The last 2 sides take 5/2=<<5/2=2.5>>2.5 minutes
+So they take 2.5*2=<<2.5*2=5>>5 minutes
+So the total time is 5+20+5=<<5+20+5=30>>30 minutes
+#### 30
+Generated Solution: Strategy:
+1. Calculate the time it takes for each side of the Rubik's cube to be solved.
+2. Add up the times for all 6 sides to find the total time it takes to solve the Rubik's cube.
+
+Answer:
+Side 1: 5 minutes
+Side 2: 2 * 5 minutes = 10 minutes
+Side 3: 2 * 5 minutes = 10 minutes
+Side 4: 0.5 * 5 minutes = 2.5 minutes
+Side 5: 0.5 * 5 minutes = 2.5 minutes
+Side 6: 5 minutes
+
+Total time = 5 + 10 + 10 + 2.5 + 2.5 + 5 = 35 minutes
+
+The answer is 35
+Self evaluation Score: 0.70
+Task 455: 0.40
+Ground Truth: Each bed is 2 feet wide by 8 feet long by 2 feet high, so they each hold 2 * 8 * 2 = <<2*8*2=32>>32 cubic feet of dirt.
+He has 10 beds, so he will need 10 * 32 = <<10*32=320>>320 cubic feet of dirt.
+Each bag of soil is 0.75 cubic feet, so Bob will need 320 / 2 = <<320/2=160>>160 bags of soil.
+Each bag is $12, so all the soil will cost him $12 * 160 = $<<12*160=1920>>1920.
+#### 1920
+Generated Solution: Strategy:
+1. Calculate the volume of one raised bed by multiplying the width, length, and height.
+2. Calculate the total volume of all 10 raised beds by multiplying the volume of one raised bed by 10.
+3. Divide the total volume of all raised beds by the volume of one bag of potting soil to determine how many bags are needed.
+4. Multiply the number of bags needed by the cost per bag to find the total cost of the potting soil.
+
+Answer:
+The total cost of the potting soil for Bob will be $480. The answer is 480
+Self evaluation Score: 0.40
+Task 370: 0.40
+Ground Truth: A DIY will saves 20% after considering the materials cost, meaning you will save 20/100*$400=$<<20/100*400=80>>80 if you make your own hand-painted wallpaper.
+The total cost of a hand-painted wallpaper made at home is $400-$80 = $<<400-80=320>>320
+#### 320
+Generated Solution: Strategy:
+To find the total cost of Ethan's DIY hand-painted wallpaper, we will first calculate the 20% saving from the market price of $400. Then, we will subtract this saving from the market price to determine the total cost of materials for Ethan. Finally, the total cost will be the sum of the materials cost and the savings.
+Answer:
+Savings = 20% of $400 = 0.20 * $400 = $80
+Materials cost = $400 - $80 = $320
+Total cost = Materials cost + Savings = $320 + $80 = $400
+The answer is 400
+Self evaluation Score: 0.40
+Task 1002: 0.30
+Ground Truth: Let B stand for the number of chocolate bars in a box.
+Lisa sold 3 1/2 * B bars.
+Peter sold 4 1/2 * B bars.
+Together, they sold 3 1/2 * B + 4 1/2 * B = 8B = 64 bars.
+Therefore, there are B = 64 / 8 = <<64/8=8>>8 chocolate bars in a box.
+#### 8
+Generated Solution: Strategy:
+1. Assign variables for Lisa's and Peter's sales (let's say x for Lisa and y for Peter)
+2. Write two equations based on the information given in the question
+3. Solve the system of equations to find the number of chocolate bars in a box
+Self evaluation Score: 0.30
+Task 501: 0.30
+Ground Truth: Mariah’s grandma used 1/2 a skein of yarn. We should multiply this by (2/2) to have a common denominator, so 1/2 * 2/2 = 2/4.
+Now that there are common denominators, we can add the 1/4 skein of yarn Mariah used + 2/4 skein of yarn her grandma used = 3/4 of a skein of yarn.
+3/4 of a skein of yarn * 364 yards = 364 / 4 = <<3/4*364=273>>273 yards.
+#### 273
+Generated Solution: Strategy:
+To find out how many yards of yarn Mariah and her grandma used altogether, I will first calculate how many yards of yarn Mariah used by multiplying 1/4 of a skein by 364 yards. Then, I will do the same for her grandma by multiplying 1/2 of a skein by 364 yards. Finally, I will add the two totals together to find the total yards of yarn used altogether.
+
+Answer:
+182 yards + 182 yards = 364 yards
+The answer is 364
+Self evaluation Score: 0.30
+Task 171: 1.00
+Ground Truth: First find the total number of spider legs: 80 spiders * 8 legs/spider = <<80*8=640>>640 legs
+Then find the total number of insect legs: 90 spiders * 6 legs/spider = <<90*6=540>>540 legs
+Then find the total number of mutant invertebrate legs: 3 mutants * 10 legs/mutant = <<3*10=30>>30 legs
+Then add the number of each kind of leg to find the total he saw: 640 legs + 540 legs + 30 legs = <<640+540+30=1210>>1210 legs
+#### 1210
+Generated Solution: Strategy:
+To find the total number of legs Jake sees, I will first calculate the total number of legs from the spiders, insects, and mutant invertebrates separately. Then, I will add these totals together to find the overall number of legs Jake sees in the Museum of Entomology.
+
+Calculations:
+Number of legs from spiders = 80 spiders * 8 legs each = 640 legs
+Number of legs from insects = 90 insects * 6 legs each = 540 legs
+Number of legs from mutant invertebrates = 3 mutant invertebrates * 10 legs each = 30 legs
+
+Total number of legs Jake sees = 640 legs + 540 legs + 30 legs = 1210 legs
+
+Answer:
+The answer is 1210.
+Self evaluation Score: 1.00
+Task 254: 0.40
+Ground Truth: Anne went down the slide 30% less than Mitchel who went down 30 times so that's .30*30 = <<30*.01*30=9>>9 times less
+Mitchel went down 30 times and Anne went down 9 times less than him for a total of 30-9 = <<30-9=21>>21 times
+Robert went down the slide 4 times as much as Anne, who went down 21 times so Robert went down the slide 4*21 = <<4*21=84>>84 times
+#### 84
+Generated Solution: Strategy:
+1. Calculate 30% of 30 to find out how many times Anne went down the water slide (30 x 0.30 = 9).
+2. Multiply Anne's number of times down the slide by 4 to find out how many times Robert went down (9 x 4 = 36).
+3. The final answer will be the number of times Robert went down the water slide.
+
+Answer:
+The answer is 36
+Self evaluation Score: 0.40
+Task 681: 1.00
+Ground Truth: Max’s has a total of 68+5 = <<68+5=73>>73 cookies.
+Cookie Monster’s total amount of cookies is 73-12 = <<73-12=61>>61.
+Summer’s total cookie amount is 73+23 = <<73+23=96>>96.
+Total amount of cookies 68+73+61+96 = <<68+73+61+96=298>>298.
+#### 298
+Generated Solution: Strategy:
+1. Let K be the number of cookies Katarina has, M be the number of cookies Max has, C be the number of cookies the Cookie Monster has, and S be the number of cookies Summer has. We can create the following system of equations:
+K = M - 5
+M = C + 12
+S = M + 23
+K = 68
+2. Substitute the values from the equations into each other to find the number of cookies each person has:
+68 = M - 5
+M = 68 + 5
+M = 73
+
+73 = C + 12
+C = 73 - 12
+C = 61
+
+S = 73 + 23
+S = 96
+3. Add up the number of cookies each person has:
+68 (Katarina) + 73 (Max) + 61 (Cookie Monster) + 96 (Summer) = 298
+The answer is 298
+Self evaluation Score: 1.00
+Task 467: 0.90
+Ground Truth: First find the number of pillow cases in each room: 2 sheets * 2 pillow cases/sheet = <<2*2=4>>4 pillow cases
+Then find the number of towels in each room: 4 pillow cases * 2 towels/pillow case = <<4*2=8>>8 towels
+Then find the number of pieces of laundry in each room: 4 pillow cases + 8 towels + 2 sheets + 1 comforter = <<4+8+2+1=15>>15 pieces of laundry
+Then multiply the number of pieces of laundry in each room by the number of rooms to find the total: 15 pieces of laundry/room * 80 rooms = <<15*80=1200>>1200 pieces
+#### 1200
+Generated Solution: Strategy:
+1. Calculate the total number of each type of laundry item in one room (2 sheets, 1 comforter, 4 pillow cases, 8 towels).
+2. Multiply the number of each type of laundry item by the number of rooms (80 rooms).
+3. Add up the total number of each type of laundry item to get the final answer.
+
+Answer:
+There are a total of 80 rooms in the hotel.
+In one room, there are 2 sheets, 1 comforter, 4 pillow cases, and 8 towels.
+So, for 80 rooms:
+Sheets: 2 sheets/room * 80 rooms = 160 sheets
+Comforters: 1 comforter/room * 80 rooms = 80 comforters
+Pillow cases: 4 pillow cases/room * 80 rooms = 320 pillow cases
+Towels: 8 towels/room * 80 rooms = 640 towels
+
+The answer is 1200
+Self evaluation Score: 0.90
+Self Evaluation Solutions accuracy: 0.62
+GPT usage cost after self evaluation: {'completion_tokens': 2125, 'prompt_tokens': 8623, 'cost': 0.13996999999999998}
