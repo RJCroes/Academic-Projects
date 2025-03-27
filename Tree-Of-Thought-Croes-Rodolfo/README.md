@@ -37,7 +37,7 @@ This script applies the ToT approach to the StoryCloze dataset, which involves s
 
 2. Install the required dependencies:
    ```
-   pip install openai pandas numpy
+   pip install openai numpy
    ```
 
 3. Set up your OpenAI API key as an environment variable:
