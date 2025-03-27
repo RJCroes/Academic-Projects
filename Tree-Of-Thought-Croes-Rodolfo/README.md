@@ -1,19 +1,19 @@
 # Tree of Thought Experiments
 
-This repository contains implementations of the Tree of Thought (ToT) approach for problem-solving using large language models. The experiments are conducted on two datasets: GSM8K (math word problems) and StoryCloze (story completion tasks). Also included are the results from the experiments that align with the report created for the dissertation project at University of Stirling.
+This repository contains implementations of the Tree of Thought (ToT) approach for problem-solving using large language models. The experiments are conducted on three datasets: GSM8K (math word problems), GSMHARD (math word problems with more complex numbers) and StoryCloze (story completion tasks). Also included are the results from the experiments that align with the report created for the dissertation project at University of Stirling.
 
 ## Files
 
-1. `tot_gsm8k.py`: Python script implementing ToT for the GSM8K dataset.
+1. `tot_gsm.py`: Python script implementing ToT for the GSM8K and GSMHard datasets.
 2. `tot_storycloze.py`: Python script implementing ToT for the StoryCloze dataset.
 
 ## Overview
 
-The Tree of Thought approach is a novel method for enhancing problem-solving capabilities of large language models. It involves generating multiple thought processes, evaluating them, and exploring the most promising paths to find solutions.
+The Tree of Thought approach is a novel method for enhancing problem-solving capabilities of large language models with advanced prompt engineering. It involves generating multiple thought processes, evaluating them, and exploring the most promising paths determined by different methods to find optimal solutions.
 
-### tot_gsm8k.py
+### tot_gsm.py
 
-This script focuses on solving math word problems from the GSM8K dataset. It implements several ToT variants:
+This script focuses on solving math word problems from the GSM8K and GSMHard datasets seperatly. It implements several ToT variants:
 
 - Input-Output (IO) baseline
 - ToT with Breadth-First Search (BFS)
@@ -47,15 +47,16 @@ This script applies the ToT approach to the StoryCloze dataset, which involves s
 
 4. Ensure you have the necessary dataset files:
    - For GSM8K: `gsm8k.jsonl`
+   - For GSMHard: `gsmhard.jsonl`
    - For StoryCloze: `cloze_test_val__winter2018-cloze_test_ALL_val.csv`
 
    Place these files in the same directory as the Python scripts.
 
 ## Usage
 
-1. To run the GSM8K experiments:
+1. To run the GSM8k and GSMHard experiments:
    ```
-   python tot_gsm8k.py
+   python tot_gsm.py
    ```
 
 2. To run the StoryCloze experiments:
@@ -114,6 +115,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   author={Cobbe, Karl and Kosaraju, Vineet and Bavarian, Mohammad and Chen, Mark and Jun, Heewoo and Kaiser, Lukasz and Plappert, Matthias and Tworek, Jerry and Hilton, Jacob and Nakano, Reiichiro and Hesse, Christopher and Schulman, John},
   journal={arXiv preprint arXiv:2110.14168},
   year={2021}
+}
+
+@article{gao2022pal,
+  title={PAL: Program-aided Language Models},
+  author={Gao, Luyu and Madaan, Aman and Zhou, Shuyan and Alon, Uri and Liu, Pengfei and Yang, Yiming and Callan, Jamie and Neubig, Graham},
+  journal={arXiv preprint arXiv:2211.10435},
+  year={2022}
 }
 
 @inproceedings{sharma-etal-2018-tackling,
