@@ -29,10 +29,10 @@ Detailed documentation is provided in the project report.
 
 ```
 .
-├── Assignment01-3080195.ipynb            # Jupyter Notebook: Development and Testing
-├── ITNPAI1-Assignment1Report-3080195.pdf # Detailed project report
-├── Dialogue-3080195.txt                  # Complete dialogue example
-├── README.md                             # This documentation
+├── LLM-Chatbot-Prompt.ipynb                    # Jupyter Notebook: Development and Testing
+├── Report-LLM-Chatbot-Resort-Croes-Rodolfo.pdf # Detailed project report
+├── Dialogue-Example.txt                        # Complete dialogue example
+├── README.md                                   # This documentation
 ```
 
 ## Installation
