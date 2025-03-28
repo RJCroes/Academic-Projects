@@ -51,11 +51,11 @@ pip install openai langchain numpy pandas
 ## Usage
 
 ### Running Notebook
-- Open the notebook `Assignment01-3080195.ipynb`.
+- Open the notebook `LLM-Chatbot-Prompt.ipynb`.
 - Execute cells sequentially to run the chatbot and test the prompts.
 
 ### Viewing Documentation
-- Refer to `ITNPAI1-Assignment1Report-3080195.pdf` for comprehensive details on prompt engineering and results.
+- Refer to `Report-LLM-Chatbot-Resort-Croes-Rodolfo.pdf` for comprehensive details on prompt engineering and results.
 
 ## Testing and Evaluation
 
@@ -82,7 +82,7 @@ ChatBot: Hello! 🌴😊 Welcome to the booking office at Divi Resorts. How can 
 ...
 ```
 
-See the full interaction in `Dialogue-3080195.txt`.
+See the full interaction in `Dialogue-Example.txt`.
 
 ## Findings
 
