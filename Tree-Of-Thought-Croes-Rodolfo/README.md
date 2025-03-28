@@ -64,7 +64,7 @@ This script applies the ToT approach to the StoryCloze dataset, which involves s
    python tot_storycloze.py
    ```
 
-3. You can modify the parameters in the `run` functions within each script to adjust the number of tasks, methods, or model settings.
+3. You can modify the parameters in the `run_experiment` call in main within each script to adjust the number of tasks, methods, or model settings.
 
 ## Results
 
